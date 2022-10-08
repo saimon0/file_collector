@@ -1,0 +1,3 @@
+TOTAL: 6
+DEV: 3
+TEST: 3
